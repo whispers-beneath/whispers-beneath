@@ -4,8 +4,9 @@ body {
 }
 
 h1 {
-  margin: auto;
-  width: 50%;
+  text-align: center;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
   padding: 10px;
 }
 
