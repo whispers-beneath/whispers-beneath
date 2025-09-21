@@ -7,7 +7,6 @@ body {
   background-repeat: no-repeat;
   color: white;
   margin: 0;
-  filter: brightness(50%);
     padding: 1;
 }
 
@@ -43,12 +42,12 @@ li a {
 }
 
 li a.active {
-  background-color: #04AA6D;
+  background-color: #4d6e38;
   color: white;
 }
 
 li a:hover:not(.active) {
-  background-color: #555555;
+  background-color: #ffdbab;
   color: white;
 }
 
