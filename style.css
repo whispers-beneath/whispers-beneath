@@ -43,11 +43,11 @@ li a {
 
 li a.active {
   background-color: #4d6e38;
-  color: white;
+  color: black;
 }
 
 li a:hover:not(.active) {
   background-color: #ffdbab;
-  color: white;
+  color: #ded6bf;
 }
 
